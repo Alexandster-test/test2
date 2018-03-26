@@ -16,5 +16,5 @@ if number in range (2,201):
     else:
         pass
 else:
-    print "not a valid number" 
+    print "not a valid number, just sayin" 
         
